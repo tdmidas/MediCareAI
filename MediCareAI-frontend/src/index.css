@@ -1,0 +1,23 @@
+
+body {    
+    background: #ffffff;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+   
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888;
+   
+}
+
+* {
+    scrollbar-width: 5px;
+   
+}
+
+*::-webkit-scrollbar {
+    width: 5px;
+}

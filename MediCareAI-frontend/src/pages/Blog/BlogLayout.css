@@ -1,0 +1,55 @@
+.blog-layout {
+    background-color: #ffffff;
+}
+.blog-content {
+    padding: 50px;
+}
+
+.blog-card {
+    justify-content: center;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 8px;
+}
+
+.blog-image {
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.blog-date {
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+.blog-content {
+    line-height: 1.6;
+}
+.header {
+    padding-top: 12px;
+    background: #fff;
+}
+
+.like-btn:hover {
+background-color: rgb(248, 93, 93) !important;
+border-color: rgb(248, 93, 93) !important;
+}
+
+.like-icon.clicked {
+    color: red;
+}
+.user-info-icons {
+    display: flex;
+    align-items: center;
+}
+.like-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.comment-icon {
+    width: 30px;
+        height: 30px;
+    margin-left: 10px;
+}

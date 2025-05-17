@@ -1,0 +1,90 @@
+
+.chat-container {
+    
+    background-color: #fff;
+    overflow-y: auto;
+    box-shadow: 0 0 10px rgba(4, 125, 109, 0.2);
+    
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.user {
+    text-align: right;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+}
+
+input[type="text"] {
+    font-size: 20px;
+    flex: 1;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+
+
+.message.user {
+    align-self: flex-end;
+}
+
+.message.bot {
+    align-self: flex-start;
+}
+.textarea-container {
+    position: relative;
+}
+
+
+.send-btn, .upload-btn, .voice-btn {
+    margin-bottom: 10px;
+}
+.markdown-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.promo-prompt{
+    box-shadow: 0 0 10px rgba(4, 125, 109, 0.5);
+    font-size: 15px;
+    height: auto;
+}
+.loading-dots {
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #1890ff;
+    /* Change color if needed */
+    margin: 0 5px;
+    animation: jump 1s infinite;
+    /* Adjust animation duration if needed */
+}
+
+@keyframes jump {
+
+    0%,
+    50%,
+    100% {
+        transform: translateY(0);
+    }
+
+    25% {
+        transform: translateY(-10px);
+    }
+
+    75% {
+        transform: translateY(10px);
+    }
+}
