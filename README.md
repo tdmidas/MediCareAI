@@ -247,7 +247,7 @@ For backend and AI model deployment, use cloud providers like AWS, Vercel, or He
 | **Health Notification**            | ![Notification](./screenshots/notification.png)        |
 | **View Doctors**                   | ![Doctors](./screenshots/doctor.png)                   |
 | **Doctor Details**                 | ![Doctor Details](./screenshots/doctor-detail.png)     |
-| **Rate a Doctor**                  | ![Rate Doctor](./screenshots/rate.png)                 |
+| **Rate a Doctor**                  | ![吸收Doctor](./screenshots/rate.png)                  |
 | **View Doctor Ratings**            | ![View Ratings](./screenshots/view-rate.png)           |
 | **View Blog Posts**                | ![Blog Posts](./screenshots/blog.png)                  |
 | **Read Blog Post**                 | ![Read Blog](./screenshots/readblog.png)               |
@@ -272,15 +272,15 @@ For backend and AI model deployment, use cloud providers like AWS, Vercel, or He
 
 ### Bonus Scoring Criteria
 
-| Criteria                           | Screenshot                                              |
-| ---------------------------------- | ------------------------------------------------------- |
-| **Frontend Deployment (Amplify)**  | ![Amplify](./screenshots/amplify.png)                   |
-| **Backend Deployment (Vercel)**    | ![Vercel](./screenshots/backend-vercel.png)             |
-| **Performance: Desktop PageSpeed** | ![PageSpeed Desktop](./screenshots/pagespeed.png)       |
-| **Performance: Mobile PageSpeed**  | ![PageSpeed Mobile](./screenshots/pagespeed-mobile.png) |
-| **NestJS Seminar**                 | ![Seminar](./screenshots/seminar.png)                   |
-| **SEO**                            | ![SEO](./screenshots/seo.png)                           |
-| **Google Indexing**                | ![Google Index](./screenshots/google-index.png)         |
+| Criteria                           | Screenshot/Link                                                                                            |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Frontend Deployment (Amplify)**  | ![Amplify](./screenshots/amplify.png)                                                                      |
+| **Backend Deployment (Vercel)**    | ![Vercel](./screenshots/backend-vercel.png)                                                                |
+| **Performance: Desktop PageSpeed** | ![PageSpeed Desktop](./screenshots/pagespeed.png)                                                          |
+| **Performance: Mobile PageSpeed**  | ![PageSpeed Mobile](./screenshots/pagespeed-mobile.png)                                                    |
+| **NestJS Seminar**                 | ![Seminar](./screenshots/seminar.png)<br>[Watch Seminar](https://youtu.be/TgVVncYDL-4?si=fR00iwtIswuzUZFe) |
+| **SEO**                            | ![SEO](./screenshots/seo.png)                                                                              |
+| **Google Indexing**                | ![Google Index](./screenshots/google-index.png)                                                            |
 
 ## Troubleshooting
 
